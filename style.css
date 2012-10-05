@@ -10,6 +10,15 @@ h1 {
 	text-decoration: underline;
 }
 
+h4, h3 {
+	display: inline;
+	padding-left: 15px;
+}
+
+header {
+	background: white;
+}
+
 p {
 	color: #ff0000;
 }
